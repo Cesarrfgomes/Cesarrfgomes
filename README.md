@@ -5,8 +5,8 @@ Meu nome é César Filipe Gomes e sou **Desenvolvedor Backend** desde 2023, esto
 ## 👉 Para me encontrar:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesafilipegomess/)
 <a href="mailto:filipegomes012642@gmail.com">
-  <img src="" width="50px"/>
-</a>  
+  <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" width="50px"/>
+</a>
 
 
 ## ⌨️	 Hard skills:
