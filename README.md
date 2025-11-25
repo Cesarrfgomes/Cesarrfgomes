@@ -1,6 +1,6 @@
 # Olá Pessoal!
 
-Meu nome é César Filipe Gomes e sou **Desenvolvedor Backend** desde 2023, estou em constante evolução e dispoto a aprender novas linguagens de programação. Adoro o mundo dos animes dos games e gosto de ocupar o restinho do meu tempo com algum dos dois.
+Meu nome é César Filipe Gomes e sou **Desenvolvedor Backend** desde 2023, estou em constante evolução e dispoto a aprender novas linguagens de programação. Adoro o mundo dos animes e dos games, gosto de ocupar o restinho do meu tempo com algum dos dois.
 
 ## 👉 Para me encontrar:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesafilipegomess/)
