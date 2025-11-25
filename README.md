@@ -18,6 +18,8 @@ Meu nome é César Filipe Gomes e sou **Desenvolvedor Backend** desde 2023, esto
 ![Oracle](https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarrfgomes&theme=dracula&hide_border=true&custom_title=Linguagens%20%Principais)
