@@ -15,6 +15,7 @@ Meu nome é César Filipe Gomes e sou **Desenvolvedor Backend** desde 2023, esto
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![NODE](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=white)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarrfgomes&theme=dracula&hide_border=true&custom_title=Linguagens%20%Principais)
