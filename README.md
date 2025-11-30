@@ -27,6 +27,6 @@ Meu nome é César Filipe Gomes e sou **Desenvolvedor Backend** desde 2023, esto
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0902?style=for-the-badge&logo=typeorm&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=ktor&logoColor=white)
-
+![JetPack Compose](https://img.shields.io/badge/Jetpack%20Compose-3DDC84?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarrfgomes&theme=dracula&hide_border=true&custom_title=Linguagens%20%Principais)
